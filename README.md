@@ -19,7 +19,7 @@ Identifying the location of a target image found on Reddit sub r/whereisthis.
 2. Methodology
  Visual Analysis: I examined the image and noted key details such as the trees in the distance that go in a straight line, some limestone rocks,
  and the sign with the Greek on it.
- Search Process: I used first of used google translations on the sign. then I used the Google Lens to search for these visual clues. I got onto a different Reddit page that told me this location in Florida, somewhere in Tarpon Springs. 
+ Search Process: I first of used google translations on the sign. then I used the Google Lens to search for these visual clues. I got onto a different Reddit page that told me this location in Florida, somewhere in Tarpon Springs. 
  Confirmation: I compared the results from my search with Google earth then google earth Street View to confirm the features matched the original image.
 
 3. Findings
