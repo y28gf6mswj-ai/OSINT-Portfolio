@@ -15,7 +15,7 @@ Projects
       * Case Study: Geolocation Analysis
 1. Objective
 Identifying the location of a target image found on Reddit sub r/whereisthis.
-![Case Study Analysis](https://ibb.co/Q7XdGrHQ)⁠
+![Case Study Analysis](https://i.ibb.co/mVZX52N2/IMG-0067.jpg)⁠
 2. Methodology
  Visual Analysis: I examined the image and noted key details such as the trees in the distance that go in a straight line, some limestone rocks,
  and the sign with the Greek on it.
