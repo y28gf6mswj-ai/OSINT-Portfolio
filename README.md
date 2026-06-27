@@ -26,5 +26,5 @@ Identifying the location of a target image found on Reddit sub r/whereisthis.
  Location: Howard Park Tarpon Springs, Florida 
  Coordinates: 28°09'10.01"N 82°48'18.52"W
  Verification: I confirmed this location by matching the opposite side of the coast line, the straight slowly tapering trees in the distance, a car parking space on the left, a sign that cautioned, and limestone rocks seen in the photo to the satellite imagery.
-
+ ![Case Study Analysis](https://i.ibb.co/spSgvHK1/IMG-0075.png)
        created by Larissa.
